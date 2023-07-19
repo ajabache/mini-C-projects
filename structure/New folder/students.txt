@@ -1,0 +1,12 @@
+10
+
+Juan	 05 18 M
+Pedro	 06 17 M
+Maria	 02 19 F
+Carlo	 11 16 M
+Clara	 01 18 F
+Bella	 09 18 F
+Anton	 07 19 M
+Ana	 10 17 F
+Victoria 03 18 F
+Berto	 12 19 M
